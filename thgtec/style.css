@@ -44,11 +44,6 @@ nav#top_menu li {
 	text-transform: uppercase;
 }
 
-header#button_wpp {
-	display: flex;
-	align-items: flex-end;
-}
-
 header .button {
 	background-color: deepskyblue;
 	border-radius: 5px;
